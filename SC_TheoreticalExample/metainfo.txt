@@ -1,0 +1,11 @@
+Name of QuantLet : SC_TheoreticalExample
+
+Published in : Metis 
+
+Description : 'Theoretical step-wise example of Spectral Clustering Procedure'
+
+Keywords : Graph theory, spectral clustering, clustering
+
+Author : Kainat Khowaja
+
+Submitted : Tue, December 10 2019 by Kainat Khowaja
