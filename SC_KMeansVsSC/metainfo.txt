@@ -1,4 +1,4 @@
-Name of QuantLet : 'SC_Animation'
+Name of QuantLet : 'SC_KMeansVsSC'
 
 Published in : 'Metis' 
 
