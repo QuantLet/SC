@@ -1,7 +1,8 @@
 Name of QuantLet : 'SC_Animation'
+
 Published in : 'Metis/SC' 
 
-Description : 'Animation that shows the connection between eigenvalues of Laplacian matrix and the number of connected components in the graph'
+Description : 'This code create images for the animation that shows the connection between eigenvalues of Laplacian matrix and the number of connected components in the graph'
 
 Keywords : 'Graph theory, spectral clustering, clustering, plot, animation, laplacian, graph, eigenvalues'
 

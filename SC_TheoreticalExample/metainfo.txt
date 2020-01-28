@@ -1,10 +1,10 @@
 Name of QuantLet : 'SC_TheoreticalExample'
 
-Published in : 'Metis/SC'
+Published in : 'Metis'
 
-Description : 'Theoretical step-wise example of Spectral Clustering'
+Description : 'This code provides a step-wise example of Spectral Clustering and uses simple linear algebra to perform SC on a hand-made simple theoretical example'
 
-Keywords : 'Graph theory, spectral clustering, clustering'
+Keywords : 'Graph theory, spectral clustering, clustering, eigenvalues, eigenvectors, laplacians, matrices'
 
 Author : 'Kainat Khowaja'
 
